@@ -1,6 +1,6 @@
 # QUANTUM LAYER SIMULATIONS FOR DEFENSE AGAINST DATA POISONING
 
-Este repositório contém o código de simulação para detecção de ataques de envenenamento de dados em camadas quânticas, desenvolvido como parte de pesquisa de mestrado no Instituto de Computação da UFBA.
+Este repositório contém o código de simulação para detecção de ataques de envenenamento de dados em camadas quânticas.
 
 ## 1. Descrição do Projeto
 O projeto utiliza o simulador NetSquid para analisar o comportamento da Taxa de Erro de Bits Quânticos (QBER) no protocolo BB84. O objetivo é diferenciar estatisticamente um canal benigno (com ruído natural) de um canal sob ataque Man-in-the-Middle (MITM) do tipo Intercept-Resend.
